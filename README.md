@@ -6,7 +6,7 @@
 [![Website Badge](https://img.shields.io/badge/StackOverflow-Aakash-yellow)](https://stackoverflow.com/users/3687251/aakash-)
 
 I'm
-doing full stack intern program from edureka. I have done mca from ip university.I know html,css,js,seo,php,mysql,digital marketing and many more.  
+doing full stack intern program from edureka. I have done mca from ip university.I know html,css,js,seo,php,mysql,bootstrap,digital marketing and many more.  
 
 
 ![Visitor Count](https://profile-counter.glitch.me/aakashdeveloper/count.svg)
