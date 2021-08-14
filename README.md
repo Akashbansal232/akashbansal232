@@ -11,12 +11,6 @@ doing full stack intern program from edureka. I have done mca from ip university
 
 ![Visitor Count](https://profile-counter.glitch.me/aakashdeveloper/count.svg)
 
-<div>
-  <h4>🏆 Github Profile Trophy</h4>
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=aakashdeveloper&column=7"/>
-  </a>
-</div>
 
 Languages and Tools:
 
